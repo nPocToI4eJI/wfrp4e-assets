@@ -7,5 +7,6 @@
   <a href="https://github.com/nPocToI4eJI/wfrp4e-assets/releases" rel="nofollow"><img src="https://img.shields.io/github/downloads/nPocToI4eJI/wfrp4e-assets/wfrp4e-assets.zip?displayAssetName=false&label=%D0%92%D1%81%D0%B5%D0%B3%D0%BE&labelColor=darkgreen&color=darkred" alt="Скачиваний всего"></a>
 </p>
 Набор ассетов, которые я использую в своих играх. Включает актёров, предметы и прочее.
-
+<br>
+<br>
 Модуль не может быть выложен на Foundry, так как использует множество артов, авторское право которого не позволить их распространять таким образом.
